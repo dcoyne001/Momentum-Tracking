@@ -1,0 +1,50 @@
+# Momentum Tracking
+
+## What It Is
+Momentum Tracking is a browser-based practice management app built specifically for solo personal trainers in Australia. It replaces spreadsheets, paper, and generic tools with a single purpose-built system that handles everything from client sessions to BAS reporting.
+
+## Who It's For
+Solo Australian personal trainers running their own PT business — in-person, online, or hybrid. Designed for self-employed PTs who operate as sole traders and need to manage clients, revenue, and tax obligations without an admin team.
+
+## Core Features
+- Client management: profiles, notes, health history, contact details
+- Session tracking: log sessions against clients, view history
+- Package management: prepaid session packs with automatic credit deductions
+- Revenue tracking: income by client, by period, by package type
+- Invoicing: create and send invoices to clients
+- Expense tracking: business expenses with category and GST fields
+- Tax and BAS reporting: GST summaries and quarterly BAS-ready figures for Australian sole traders
+- Stripe payments integration: accept card payments from clients
+- Leads tab: track prospective clients through your sales pipeline
+
+## Australian Tax Context
+Built for Australian sole traders registered for GST. Generates BAS-ready reports aligned with ATO quarterly reporting requirements. All figures in AUD.
+
+## Business Model
+SaaS subscription. Free 30-day trial. No lock-in contracts. Cancel anytime.
+
+## Tagline
+"Stop guessing, start knowing."
+
+## Tech Stack
+Progressive Web App (PWA). Runs in any browser, installable on mobile. No app store required. Data stored securely via Supabase. Payments via Stripe.
+
+## Website
+https://momentumtracking.com.au
+
+## Social
+Instagram: @momentumtracking
+
+## Founded By
+David Coyne — Melbourne-based personal trainer with 12+ years of experience in in-person and online PT. Built Momentum Tracking to solve the business admin problems he faced running his own PT practice (Momentum Health & Fitness).
+
+## Location
+Melbourne, Victoria, Australia. Serving Australian personal trainers nationwide.
+
+## Ideal Customer Profile
+- Solo PT, not a gym or PT studio
+- Australian-based, sole trader structure
+- 5–40 active clients
+- Tired of tracking clients in spreadsheets or notebooks
+- Needs GST/BAS reporting that works for their tax obligations
+- Values simplicity and speed over feature bloat

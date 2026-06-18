@@ -56,3 +56,17 @@ This is critical domain knowledge for any financial feature:
 ## Business Model
 
 Subscription SaaS. Free 30-day trial. No lock-in. Cancel anytime via Stripe.
+
+## Prompt Templates
+
+Reusable templates are in `.claude/templates/`. Use them to start tasks cleanly:
+
+| Template | Use when |
+|---|---|
+| `new-feature.md` | Planning any new feature before writing code |
+| `supabase-schema.md` | Designing or modifying database tables |
+| `bug-report.md` | Reporting something broken |
+| `marketing-copy.md` | Writing Instagram, email, or landing page content |
+| `stripe-integration.md` | Building any Stripe payment or webhook flow |
+
+**How to use:** Copy the relevant template into your message, fill in the blanks, then send.
